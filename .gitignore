@@ -1,2 +1,9 @@
-README
-.gitignore
+# Ignore Folders
+AS/
+Binaries/
+Diagnosis/
+Temp/
+
+# Ignore .set und .isopen files
+*.set
+*.isopen
