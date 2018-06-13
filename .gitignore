@@ -4,6 +4,6 @@ Binaries/
 Diagnosis/
 Temp/
 
-# Ignore .set und .isopen files
+# Ignore .set and .isopen files
 *.set
 *.isopen
